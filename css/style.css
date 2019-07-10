@@ -1,0 +1,79 @@
+.errors {
+    color: red;
+}
+
+
+
+
+section{
+
+    text-align: center;
+
+}
+.cut {
+    max-width: 80%;
+    padding-left: 20%;
+    word-wrap:break-word;
+}
+
+
+
+.btn {
+    width:100% !important;
+    text-transform: none;
+    height: 30px !important;
+}
+.col.s12 img {
+    width: 100%;
+}
+
+.mobile-demo {
+    color: white !important;
+}
+
+body {
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    color: #555759;
+    min-width: 100% !important;
+}
+
+@media screen and (max-width: 700px) {
+    table {
+        font-size: 10px!important;
+        max-width:700px !important;
+
+    }
+     a {
+         font-size: 8px !important;
+     }
+    td {
+        margin: 0 auto;
+        max-width: 100px!important;
+        min-width: 50px!important;
+        ;
+        overflow-wrap: break-word!important;
+        word-wrap: break-word!important;
+        hyphens: auto!important;
+
+    }
+.btn1{
+       font-size: 8px!important;
+     height: 30px !important;
+     width: 30px!important;
+     text-align: center !important;
+   }
+button {
+    font-size: 10px!important;
+}
+}
+
+td {
+    margin: 0 auto;
+    max-width:100px;
+    min-width: 100px!important;
+    overflow-wrap: break-word!important;
+    word-wrap: break-word!important;
+    hyphens: auto!important;;
+}
+
